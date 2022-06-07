@@ -1,4 +1,4 @@
-# 402finalproj
+# 402 Final Project
 import mysql.connector
 
 mydb = mysql.connector.connect( host=”localhost”, user=”root”, password=”YU_oppdivide!20” )
